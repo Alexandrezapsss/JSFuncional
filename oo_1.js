@@ -1,3 +1,4 @@
+//Funçao Construtora
 function Produto(nome, preco) {
     // this é necessário para atribuir ao objeto em sua criação
     this.nome = nome;
